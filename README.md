@@ -1,5 +1,5 @@
 # Task-no.-6
-The Task is to Analyze the data by using SQL
+**The Task is to Analyze the data by using SQL**
 
 step 1: Downloaded the online sales data from kaggle.(which main has columns like orders table with order_date, amount, product_id)
 

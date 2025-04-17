@@ -2,9 +2,13 @@
 The Task is to Analyze the data by using SQL
 
 step 1: Downloaded the online sales data from kaggle.(which main has columns like orders table with order_date, amount, product_id)
+
 step 2: Cleaned the data in Excel for Analysis.
+
 step 3: Opened SQL and Import the dataset in the SQL Database.
+
 step 4: **Analyzed the data with several steps**
+
 **Extract Time Components:** Get the month and year from the order_date to group data by time.
 **Group the Data:** Use the year and month to group the records for monthly analysis.
 **Calculate Monthly Revenue:** Use a function to sum up the revenue (usually from the amount column).
